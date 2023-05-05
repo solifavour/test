@@ -1,2 +1,2 @@
-# test
-testing
+#!bin/bash
+echo " this is my readme file"
